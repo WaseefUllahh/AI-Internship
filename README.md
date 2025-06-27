@@ -1,2 +1,2 @@
 # AI-Internship
-I will upload all the work done related to Internship task  to this repository.
+This repository contains 6 beginner-friendly AI/ML projects built using Python, Google Colab, and various datasets.
