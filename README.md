@@ -30,52 +30,52 @@ To explore or work with the repository:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/WaseefUllahh/AI-Internship.git
-````
+   ```
 
-2. **Navigate to the Project Directory**
-
+2. **Navigate to the Project Directory**  
    ```bash
    cd AI-Internship
    ```
 
-3. **Install Dependencies**
-   Check each project's folder for a `requirements.txt` or setup guide.
+3. **Install Dependencies**  
+   Check the relevant project folder for a `requirements.txt` file or setup instructions.
 
-4. **Explore the Content**
-   Browse through individual project folders for detailed READMEs, source code, and documentation.
+4. **Explore the Content**  
+   Browse through the project directories to find detailed READMEs, source code, datasets, and documentation.
 
 ## Technologies Used
 
-The repository uses a variety of tools and frameworks, including but not limited to:
+This repository incorporates a range of tools and technologies, including:
 
-* **Programming Languages**: Python, R
-* **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn
-* **Data Handling**: Pandas, NumPy
-* **Visualization**: Matplotlib, Seaborn, Plotly
-* **Tools**: Jupyter Notebooks, Git, Docker (if applicable)
+- **Programming Languages**: Python, R  
+- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn  
+- **Data Handling**: Pandas, NumPy  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Tools**: Jupyter Notebooks, Git, Docker (if applicable)
 
-Specific dependencies are listed within each project's documentation.
+Each project’s specific dependencies and tools are documented in its respective folder.
 
 ## Contribution Guidelines
 
-This repository is primarily for personal internship work. However, suggestions and feedback are welcome! To contribute:
+This repository is maintained as part of a personal internship portfolio. Suggestions, improvements, or feedback are welcome.
 
-* Open an issue describing your suggestion or the problem
-* Optionally, submit a pull request with proposed changes
+To contribute:
+
+- Open an issue describing the suggestion or problem  
+- Optionally, submit a pull request with your proposed changes
 
 ## Contact
 
-For questions or collaboration opportunities, feel free to:
+For questions or collaboration opportunities:
 
-* Open an issue on GitHub
-* Contact **Waseef Ullah** directly via [GitHub](https://github.com/WaseefUllahh)
+- Open an issue on GitHub  
+- Contact **Waseef Ullah** directly via [GitHub](https://github.com/WaseefUllahh)
 
 ## License
 
-This repository is maintained for educational and professional purposes as part of an internship. No specific license is applied at this time. Individual projects may include their own licensing information where necessary.
+This repository is intended for educational and professional use as part of an internship. No global license is applied at this time, but individual projects may include their own licensing details.
 
 ---
 
-**Last Updated**: July 27, 2025
+**Last Updated**: July 27, 2025  
 © 2025 Waseef Ullah. All rights reserved.
-
